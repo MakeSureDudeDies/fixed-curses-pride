@@ -71,7 +71,7 @@ group.add_argument(
     dest="cycle",
     action="store_const",
     const=True,
-    help="cycles through all of the various pride flags",
+    help="cycles through all 2 only genders on the world",
 )
 group.add_argument(
     "-r",
@@ -79,14 +79,14 @@ group.add_argument(
     dest="random",
     action="store_const",
     const=True,
-    help="shows a random pride flag",
+    help="shows a random flag",
 )
 group.add_argument(
     "-f",
     "--flag",
     dest="flag",
     choices=[*PRIDE_FLAGS],
-    help="shows a pride flag of your choice",
+    help="shows a flag which u want idiot",
 )
 
 arguments = parser.parse_args(sys.argv[1:])
