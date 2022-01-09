@@ -1,19 +1,17 @@
-replace PRIDE_FLAGS thing to this::::
+beautiful fix by maeksurduddiez
+remove everything from line 51 to line 130 and replace with this:
 
 
 
 PRIDE_FLAGS = {
-    "Boy": normalhumanflagxd(
+    "Boy": PrideFlag(
         [
             (240,248,255),
         ],
     ),
-    "Girl": normalhumanflagxd(
+    "Girl": PrideFlag(
         [
             (255,192,203),
         ],
     ),
 }
-
-
-beautiful fix by maeksurduddiez
