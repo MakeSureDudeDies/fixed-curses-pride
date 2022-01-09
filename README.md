@@ -1,2 +1,2 @@
 # fixed-curses-pride
-better, i wont publish nothing! just a simple harras towards https://github.com/K-Visscher/curses-pride
+fix of retarded lgbt mac terminal command poo poo thing https://github.com/K-Visscher/curses-pride
